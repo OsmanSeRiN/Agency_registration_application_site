@@ -1,0 +1,81 @@
+.bg_color{
+    background-color: rgb(110, 110, 110);
+}
+.squrae{
+    width: 700px;
+    height: 500px;
+    padding: 10px;
+    
+}
+.squrae_2{
+    width: 700px;
+    height: 800px;
+    padding: 10px;
+    
+}
+ .squre-color{
+   background-color: #5E35B1;
+   color: rgb(208, 211, 210);
+ }
+
+ .record-link{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+
+ }
+ .record-link-color{
+    background-color: black;
+    color: white;
+ }
+ .record-link-color:hover{
+    background-color: royalblue;
+    color: red;
+ }
+ .section{
+    width: 800px;
+    height: 2000px;
+    margin-left: 500px;
+    padding: 10px;
+    
+ }
+
+ .body_color{
+    background-color: #E1BEE7;
+ }
+ .h1_style{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+ }
+ .h2_style{
+    font-size: 28px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+ }
+ .footer{
+    background-color: white;
+    text-align: center ;
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    margin-left: 700px;
+    margin-top: 100px;
+    border-radius: 10%;
+    margin-bottom: 100px;
+   
+ }
+ .p_sytle{
+    font-size: 20px;
+
+ }
+ 
+ .header{
+    margin-left: 500px;
+    width: 820px;
+    height: 500px;
+ }
+
+
