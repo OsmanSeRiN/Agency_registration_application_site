@@ -1,0 +1,45 @@
+.body_color{
+    background: linear-gradient(60deg,#4527A0,#EDE7F6,#512DA8,#D1C4E9,#512DA8,	#9575CD,#673AB7, 	#7E57C2);
+    width: 100%;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+}
+.section_color{
+    background-color: rgb(223, 222, 255);
+}
+.section{
+    width: 800px;
+    height: 500px;
+    padding: 50px;
+    margin-left: 500px;
+    margin-top: 200px;
+    border-radius: 30px; 
+    border:2px solid black ;
+}
+.aricle{
+    width: 400px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+   
+}
+.button{
+    width: 100px;
+    height: 20px;
+    background-color: rgb(118, 41, 153);
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.textbox{
+    width: 150px;
+    height:30px;
+    margin-top: 10px;
+
+}
+.radiobuttons{
+    width: 320px;
+    height: 5px;
+    margin-top: 5px;
+}
+
